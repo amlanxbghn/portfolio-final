@@ -1,0 +1,22 @@
+.skills-container {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+    text-align: center;
+  }
+  
+  .skills-container h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+  
+  .skills-container ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .skills-container li {
+    font-size: 1.5rem;
+    line-height: 2;
+  }
+  
